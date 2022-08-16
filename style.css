@@ -1,0 +1,40 @@
+body {
+	margin: 20px;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+.me{
+	width: 150px;
+	height: 150px;
+
+}
+
+.card {
+	width: 400px;
+	border: 6px solid #39C0ED;
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+	margin: 0px auto;
+	margin-bottom: 100px;
+	text-align: center;
+	background: transparent;
+	color: #2b2839;
+	border-radius: 20px;
+
+}
+
+.socialmedia{
+	display: block;
+  	align-items: center;
+  	justify-content: space-around;
+}
+.socialmedia i{
+  	margin-top: 20px;
+  	font-size: 25px;
+  	color: #000;
+}
+.socialmedia n{
+	margin-top: 20px;
+  	font-size: 25px;
+}
